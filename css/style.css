@@ -41,18 +41,12 @@ body, html {
     text-decoration: none;
     transition: all 0.45s;
 }
-<<<<<<< HEAD
-/*.menu li:hover {*/
-    /*background: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEi%0D%0AIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhs%0D%0AaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB3aWR0%0D%0AaD0iMzkwcHgiIGhlaWdodD0iNTBweCIgdmlld0JveD0iMCAwIDM5MCA1MCIgZW5hYmxlLWJhY2tn%0D%0Acm91bmQ9Im5ldyAwIDAgMzkwIDUwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZmlsbD0i%0D%0Abm9uZSIgc3Ryb2tlPSIjZDk0ZjVjIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLW1pdGVybGlt%0D%0AaXQ9IjEwIiBkPSJNMCw0Ny41ODVjMCwwLDk3LjUsMCwxMzAsMAoJYzEzLjc1LDAsMjguNzQtMzgu%0D%0ANzc4LDQ2LjE2OC0xOS40MTZDMTkyLjY2OSw0Ni41LDI0My42MDMsNDcuNTg1LDI2MCw0Ny41ODVj%0D%0AMzEuODIxLDAsMTMwLDAsMTMwLDAiLz4KPC9zdmc+Cg==");*/
-    /*animation: line 1s;*/
-/*}*/
-=======
-.menu li:hover {
-    background: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEi%0D%0AIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhs%0D%0AaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB3aWR0%0D%0AaD0iMzkwcHgiIGhlaWdodD0iNTBweCIgdmlld0JveD0iMCAwIDM5MCA1MCIgZW5hYmxlLWJhY2tn%0D%0Acm91bmQ9Im5ldyAwIDAgMzkwIDUwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZmlsbD0i%0D%0Abm9uZSIgc3Ryb2tlPSIjZDk0ZjVjIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLW1pdGVybGlt%0D%0AaXQ9IjEwIiBkPSJNMCw0Ny41ODVjMCwwLDk3LjUsMCwxMzAsMAoJYzEzLjc1LDAsMjguNzQtMzgu%0D%0ANzc4LDQ2LjE2OC0xOS40MTZDMTkyLjY2OSw0Ni41LDI0My42MDMsNDcuNTg1LDI2MCw0Ny41ODVj%0D%0AMzEuODIxLDAsMTMwLDAsMTMwLDAiLz4KPC9zdmc+Cg==");
-    animation: line 1s;
 
-}
->>>>>>> 0990e5bfc3696b7778198e61972bfd54c071b8df
+/*.menu li:hover {*/
+/*    background: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEi%0D%0AIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhs%0D%0AaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB3aWR0%0D%0AaD0iMzkwcHgiIGhlaWdodD0iNTBweCIgdmlld0JveD0iMCAwIDM5MCA1MCIgZW5hYmxlLWJhY2tn%0D%0Acm91bmQ9Im5ldyAwIDAgMzkwIDUwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZmlsbD0i%0D%0Abm9uZSIgc3Ryb2tlPSIjZDk0ZjVjIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLW1pdGVybGlt%0D%0AaXQ9IjEwIiBkPSJNMCw0Ny41ODVjMCwwLDk3LjUsMCwxMzAsMAoJYzEzLjc1LDAsMjguNzQtMzgu%0D%0ANzc4LDQ2LjE2OC0xOS40MTZDMTkyLjY2OSw0Ni41LDI0My42MDMsNDcuNTg1LDI2MCw0Ny41ODVj%0D%0AMzEuODIxLDAsMTMwLDAsMTMwLDAiLz4KPC9zdmc+Cg==");*/
+/*    animation: line 1s;*/
+/*}*/
+
 .menu li:hover a {
     color: #15a4fa;
 }
@@ -111,14 +105,6 @@ header .linkedin:hover, .github:hover, .facebook:hover, .instagram:hover {
     transform: scale(1.3);
 }
 
-<<<<<<< HEAD
-header .containerTextHeader {
-    text-align: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-=======
 .containerTextHeader {
     /*padding: 0 0 0 0;*/
     text-align: center;
@@ -127,18 +113,12 @@ header .containerTextHeader {
     justify-content: center
 }
 
->>>>>>> 0990e5bfc3696b7778198e61972bfd54c071b8df
+
 header .containerTextHeader .titleHeader {
     font-size: 80px;
     color: #fff;
     margin-bottom: 5px;
 }
-<<<<<<< HEAD
-header .containerTextHeader .titleHeader:hover {
-    color: #15a4fa;
-}
-=======
->>>>>>> 0990e5bfc3696b7778198e61972bfd54c071b8df
 
 header .containerTextHeader .line {
     width: 90%;
@@ -147,12 +127,6 @@ header .containerTextHeader .line {
     background: #15a4fa;
     margin-bottom: 20px;
 }
-<<<<<<< HEAD
-header .containerTextHeader .line:hover {
-    background: #fff;
-}
-=======
->>>>>>> 0990e5bfc3696b7778198e61972bfd54c071b8df
 
 header .containerTextHeader .subtitleHeader {
     font-size: 30px;
@@ -160,8 +134,6 @@ header .containerTextHeader .subtitleHeader {
     font-weight: 300;
     margin-bottom: 20px;
 }
-<<<<<<< HEAD
-=======
 
 header .containerTextHeader .titleHeader:hover {
     color: #15a4fa;
@@ -171,7 +143,6 @@ header .containerTextHeader .line:hover {
     background: #fff;
 }
 
->>>>>>> 0990e5bfc3696b7778198e61972bfd54c071b8df
 header .containerTextHeader .subtitleHeader:hover {
     color: #15a4fa;
     -webkit-transform: scale(1.5);
@@ -181,7 +152,7 @@ header .containerTextHeader .subtitleHeader:hover {
     transition: all 1s linear;
 }
 
-<<<<<<< HEAD
+
 
 /*_______________________________________*/
 
@@ -229,16 +200,16 @@ main .icons .icon {
     border-color: #15a4fa;
     padding: 8px;
     background: aliceblue;
-    max-width: 250px;
-    min-width: 250px;
+    /*max-width: 250px;*/
+    /*min-width: 250px;*/
     border-radius: 10%;
     opacity: 0.7;
     margin-bottom: 4.149377593360996vh;
 }
 
 main .icons .containerIcons .icon img {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
 }
 
 main .icons .containerIcons .icon h5{
@@ -249,88 +220,39 @@ main .icons .containerIcons .icon h5:hover{
     transform-style: flat;
     transition: all 1s linear;
 }
-=======
-
-main .aboutMe {
-    text-align: center;
-    border-radius: 3%;
-    margin: auto;
-    margin-top: auto;
-    margin-top: 30px;
-    max-width: 1200px;
-}
 
 .containerTitleAboutMe {
     border: double;
-    border-top-color: currentcolor;
-    border-right-color: currentcolor;
-    border-bottom-color: currentcolor;
-    border-left-color: currentcolor;
     border-color: #15a4fa;
-    background: aliceblue;
+    /*background: aliceblue;*/
     padding: 30px 0;
     text-align: center;
     border-radius: 3%;
     margin: auto;
-    margin-top: auto;
     margin-top: 30px;
-    background-image: url(../img/);
+    /*background-image: url(../img/tct1.jpg);*/
     background-repeat: no-repeat;
 }
 
-.containerAboutMe {
-    width: 90%;
-    max-width: 1000px;
-    margin: auto;
-    overflow: hidden;
+.cartaBox {
+    position: relative;
+    perspective: 1000px;
+
 }
 
-.containerTitleAboutMe {
-    text-align: center;
+.cartaBox:hover .carta {
+    transform: rotateY(180deg);
 }
 
-main .aboutMe .containerTextAboutMe .titleAboutMe {
-    font-size: 40px;
-    font-weight: 900;
-    color: white;
-    margin-bottom: 20px;
+.carta {
+    transform-style: preserve-3d;
+    transition: all 1s linear;
 }
 
-main .aboutMe .containerTextAboutMe .titleAboutMe {
-    font-size: 40px;
-    font-weight: 900;
-    color: white;
-    margin-bottom: 20px;
+.cara {
+    backface-visibility: hidden;
 }
 
-main .aboutMe .containerTextAboutMe .paragraphAboutMe {
-    color: #999999;
-    font-weight: 600;
-    margin-bottom: 20px;
-    text-decoration: none;
+.cara.detras {
+    transform: rotateY(180deg);
 }
-
-.paragraphAboutMe2 {
-    color: #999999;
-    font-weight: 600;
-    margin-bottom: 20px;
-    margin: auto;
-    text-align: center;
-    border: double;
-    border-top-color: currentcolor;
-    border-right-color: currentcolor;
-    border-bottom-color: currentcolor;
-    border-left-color: currentcolor;
-    border-color: #15a4fa;
-    padding: 8px;
-    background: aliceblue;
-    max-width: 140px;
-    min-width: 140px;
-    border-radius: 5%;
-}
-
-main .aboutMe .containerTextAboutMe .paragraphAboutMe2 a {
-    text-decoration: none;
-    color: dimgrey;
-}
->>>>>>> 0990e5bfc3696b7778198e61972bfd54c071b8df
